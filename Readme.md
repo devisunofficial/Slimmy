@@ -20,7 +20,7 @@ Even though there is no Case or anything, here is PCB in 3d View
 Here's my PCB! It was made in KiCad. 
 
 Schematic : ![Complete Slimmy](Assets/Schematic.png)
-PCB Footprint : ![Complete Slimmy](Assets/Pcb.png)
+PCB Footprint : ![Complete Slimmy](Assets/PCB.png)
 
 ### Firmware Overview:
 No FIRMWARE ;)
