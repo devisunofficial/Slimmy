@@ -14,7 +14,7 @@ Slimmy is a Unidirectional USB 3.0 TF-Card Reader.
 
 ### CAD Model:
 Even though there is no Case or anything, here is PCB in 3d View
-![Hub-3D](Assets/)
+![Hub-3D](Assets/Slimmy_3D.png)
 
 ### PCB:
 Here's my PCB! It was made in KiCad. 
